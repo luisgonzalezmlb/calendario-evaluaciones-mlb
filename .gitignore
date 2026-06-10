@@ -1,0 +1,9 @@
+# Accesos directos de Google Drive
+*.gsheet
+
+# Reporte interno (no se publica)
+Reporte_Interno_*.pdf
+
+# Windows
+desktop.ini
+Thumbs.db
